@@ -13,12 +13,12 @@ In addition, a few additional automation scripts:
 - To simply commit and push all your changes in the repository with a commit message:
 ~~~shell
 C:\folder\ lgit "Commit message"
-[9f04793] Commit message
+[main 9f04793] Commit message
 ~~~
 - This can be done from anywhere inside the repository, any subfolder etc.
 - The script recursively navigates to the repo root folder and then commits and pushes the changes
 - It also has a default message with local timestamp, that can be manually changed
 ~~~shell
 C:\folder\ lgit
-[7f02592] Commit from 15.04.2022@18:06:02,24
+[main 7f02592] Commit from 15.04.2022@18:06:02,24
 ~~~
