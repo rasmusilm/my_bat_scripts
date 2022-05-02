@@ -22,3 +22,7 @@ C:\folder\ lgit "Commit message"
 C:\folder\ lgit
 [main 7f02592] Commit from 15.04.2022@18:06:02,24
 ~~~
+
+Finally, there are a few AutoHotKey scripts, that I use to smooth my workflow
+* runcmd - a script to put into startup, to enable using Ctrl + Alt + A for opening the command prompt with a hotkey. 
+The chosen button can be changed in the script.
