@@ -22,6 +22,8 @@ C:\folder\ lgit "Commit message"
 C:\folder\ lgit
 [main 7f02592] Commit from 15.04.2022@18:06:02,24
 ~~~
+- There's a bash version of it.
+- The "lgit additions" also includes a improved .sh version of it, that together with the <i>ltag.sh</i> script enables easier tagging of the latest commit, including deleting the old tag and reattaching it to the newest commit (in the active branch)
 
 Finally, there are a few AutoHotKey scripts, that I use to smooth my workflow
 * runcmd - a script to put into startup, to enable using Ctrl + Alt + A for opening the command prompt with a hotkey. 
