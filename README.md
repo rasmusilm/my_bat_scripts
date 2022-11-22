@@ -1,6 +1,6 @@
 # My .bat scripts
 
-These are the .bat and possibly other commandline/shell scripts, that I have made, to simplify my day-to-day workflow.
+These are the .bat, .ssh and possibly other commandline/shell scripts, that I have made, to simplify my day-to-day workflow.
 They are separated into 2 main categories: 
 
 * app_opening_commands: scripts to simulate/simplify opening applications from cli.
